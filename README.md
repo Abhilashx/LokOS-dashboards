@@ -1,87 +1,54 @@
 # 🌐 LokOS Power BI Dashboards
 
-This repository contains multiple interactive Power BI dashboards created using the LokOS dataset provided under the Ministry of Rural Development, Government of India.
+This Power BI project presents a unified analytical view of the **LokOS platform under the Ministry of Rural Development, Government of India**.  
+The dashboards collectively analyze **Self Help Groups (SHGs), member demographics, education levels, financial inclusion metrics, and state-wise distribution** to support data-driven governance and monitoring.
 
-These dashboards visualize Self Help Groups (SHGs), Member demographics, education levels, financial inclusion metrics, and geographic distribution for all states.
+### 🔹 Key Insights Covered
 
----
+- **SHG & Education Analysis**
+  - Active SHGs, education status (Senior Secondary, Graduate & Above)
+  - Identification of states with high SHG participation
+  - Data availability vs non-availability assessment
+  - State-wise comparison using bar charts and map visuals
 
-## 📷 Dashboard Previews
+- **Member Demographics**
+  - Total members: **91 Million**
+  - Age-wise distribution across categories:
+    - \<18, 18–25, 26–40, 41–50, 51–60, 61–70, >70
+  - Identification of the most active working-age population
+  - State-wise member distribution and Top-performing states
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhilashx/LokOS-dashboards/main/LoKos1.png" width="800" />
-</p>
+- **Financial & Digital Inclusion Metrics**
+  - Aadhaar coverage, Bank account coverage, and Mobile number coverage
+  - Comparison of inclusion metrics across states
+  - Identification of states with near 100% Aadhaar penetration
+  - Geographic visualization of member concentration across India
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhilashx/LokOS-dashboards/main/loKos2.png" width="800" />
-</p>
+### 🔹 Analytical Value
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhilashx/LokOS-dashboards/main/LoKos3.png" width="800" />
-</p>
-
----
-
-## 📊 Dashboard Features
-
-### 🧠 Dashboard 1 – SHG & Education Metrics
-
-- **Active SHGs**: 9M  
-- **No data available**: 6M  
-- **Senior Secondary (up to 12)**: 17M  
-- **Graduate & Above**: 2M  
-- Interactive state filter for detailed comparison
-
-**Visualizations include:**
-- Bar charts for SHG counts by state  
-- Graduate distribution across states  
-- Secondary education breakdown  
-- State-wise SHG geographical map
+The combined dashboards enable stakeholders to:
+- Monitor SHG participation at a national and state level
+- Understand education and age demographics of members
+- Track financial and digital inclusion progress
+- Identify regional disparities and high-impact states
+- Support policy planning and targeted interventions
 
 ---
 
-## 📊 Dashboard 2 – Member Demographics
+## 🛠️ Tools & Technologies Used
 
-- **Total Members**: 91M  
-- Age groups analyzed: `<18`, `18-25`, `26-40`, `41-50`, `51-60`, `61-70`, `>70`  
-- Shows state-wise member count  
-- Interactive slicers for top 7 states
-
----
-
-## 📊 Dashboard 3 – Coverage Metrics
-
-- **Aadhaar Coverage %**  
-- **Bank Account Coverage %**  
-- **Mobile Number Coverage %**  
-- State comparison in horizontal bar charts  
-- Geographical map for visual distribution
+- Power BI Desktop  
+- Power Query (ETL & Data Transformation)  
+- DAX (Measures & Calculated Columns)  
+- KPI Cards, Bar Charts, Tables & Map Visuals  
+- Government SHG & Demographic Datasets  
 
 ---
 
-## 🛠️ Technologies Used
+## 🎯 Key Skills Demonstrated
 
-- **Power BI Desktop**  
-- **Power Query (ETL & Data Cleaning)**  
-- **DAX (Calculated Measures)**  
-- **Map & KPI visuals**  
-- **Filters and interactive slicers**
-
----
-
-## 📁 Repository Contents
-
-| File | Description |
-|------|-------------|
-| `LoKos1.png` | Dashboard 1 screenshot |
-| `loKos2.png` | Dashboard 2 screenshot |
-| `LoKos3.png` | Dashboard 3 screenshot |
-| `LokOS Project.pbix` | Power BI source file (if included) |
-
----
-
-## 📬 Contact
-
-📧 **abhilashsharma425@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/abhilashx1/
-
+- Large-scale data handling (90M+ records)
+- Government-grade dashboard design
+- Data modeling and transformation
+- KPI-driven reporting
+- Demographic & geospatial analysis
