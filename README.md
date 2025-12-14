@@ -2,7 +2,21 @@
 
 This Power BI project presents a unified analytical view of the **LokOS platform under the Ministry of Rural Development, Government of India**.  
 The dashboards collectively analyze **Self Help Groups (SHGs), member demographics, education levels, financial inclusion metrics, and state-wise distribution** to support data-driven governance and monitoring.
+## 📷 Dashboard Previews
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhilashx/LokOS-dashboards/main/LoKos1.png" width="800" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhilashx/LokOS-dashboards/main/loKos2.png" width="800" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhilashx/LokOS-dashboards/main/LoKos3.png" width="800" />
+</p>
+
+---
 ### 🔹 Key Insights Covered
 
 - **SHG & Education Analysis**
